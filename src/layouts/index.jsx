@@ -1,9 +1,11 @@
+import { Outlet } from "react-router-dom";
+
 export default function MainLayout() {
   return (
-    <div>
-      <h2 className="text-blue-600">Header</h2>
-      <h2>Main Content</h2>
-      <h2>Footer</h2>
-    </div>
+    <>
+      <h3>Header</h3>
+      <Outlet />
+      <h3>Footer</h3>
+    </>
   );
 }
