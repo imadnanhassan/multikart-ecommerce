@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .main-container {
+    @apply max-w-full w-[1440px] px-5 lg:px-[35px] mx-auto;
+  }
+  .heading {
+    @apply text-[40px] leading-[50px] font-bold pt-2 pb-2;
+  }
+}
