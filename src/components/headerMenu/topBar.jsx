@@ -15,10 +15,10 @@ export default function Topbar() {
         <div className="tp-auth flex items-center">
           <ul className="flex gap-5">
             <li className="flex items-center gap-2">
-              <FaHeart className="text-[16px] mt-1" /> Wishlist
+              <FaHeart className="text-[16px] " /> Wishlist
             </li>
             <li className="flex items-center gap-2">
-              <FaUser className="text-[15px] mt-1" /> My Account
+              <FaUser className="text-[15px] " /> My Account
             </li>
           </ul>
         </div>
