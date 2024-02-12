@@ -3,7 +3,7 @@ import Topbar from "../components/headerMenu/topBar";
 
 export default function Header() {
   return (
-    <header className="main-container">
+    <header>
           <Topbar />
           <HeaderMenu/>
     </header>

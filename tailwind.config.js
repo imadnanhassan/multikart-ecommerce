@@ -15,9 +15,9 @@ export default {
           redColor: "#f03737",
         },
         fontFamily: {
-          // primary: ["Manrope", "sans-serif"],
-          // sec: ["Nunito", "sans-serif"],
-          // extra: ["Pacifico", "cursive"],
+          primary: ["Montserrat", "sans-serif"],
+          secondary: ["Josefin Sans", "sans-serif"],
+          // extra: ["Josefin Sans", "sans-serif"],
         },
         transitionDuration: {
           1200: "1200ms",
