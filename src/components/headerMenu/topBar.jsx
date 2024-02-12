@@ -1,7 +1,7 @@
 export default function Topbar() {
   return (
     <div className="bg-[#2d2a25] py-3 ">
-      <div className="flex justify-between items-center main-container text-white font-primary">
+      <div className="flex justify-between items-center main-container text-white">
         <div className="top-contact flex items-center gap-5 ">
           <p>Welcome to Our store Multikart</p>
           <p>Call Us: 123 - 456 - 7890</p>

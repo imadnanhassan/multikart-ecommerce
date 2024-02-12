@@ -12,3 +12,8 @@
     @apply text-[40px] leading-[50px] font-bold pt-2 pb-2;
   }
 }
+
+p {
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+}
