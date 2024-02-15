@@ -1,3 +1,3 @@
 export default function Footer() {
-  return <footer className="main-container">Footer</footer>;
+  return <footer className="main-container"></footer>;
 }
